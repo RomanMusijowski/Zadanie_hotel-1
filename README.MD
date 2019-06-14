@@ -16,6 +16,7 @@ AdditiveController: http://localhost:8080/addtitives
 
 
 Security account (cookie):
+
 ADMIN
 email: admin@gmail.com
 password: admin
